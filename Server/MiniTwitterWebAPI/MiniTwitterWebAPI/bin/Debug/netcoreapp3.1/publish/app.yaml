@@ -1,0 +1,11 @@
+runtime: custom 
+env: flex
+
+env_variables:
+    DB_USER: sqlserver
+    DB_PASS: Kozar168@
+    DB_NAME: MiniTwitter
+    DB_HOST: cloudsql
+
+beta_settings:
+    cloud_sql_instances: "minitwitter-295114:us-central1:minitwitter-sql-db=tcp:1433"
