@@ -33,3 +33,7 @@ Search users Page               |  View other users               | See who user
 Profile Page               |  Edit user's bio               | Change profile picture               |  Settings menu
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/amitrotner/Mini-Twitter/blob/main/Screenshots/Profile%20Page.png?raw=true)| ![](https://github.com/amitrotner/Mini-Twitter/blob/main/Screenshots/Edit%20User's%20Bio.png?raw=true)| ![](https://github.com/amitrotner/Mini-Twitter/blob/main/Screenshots/Change%20Profile%20Picture.png?raw=true)| ![](https://github.com/amitrotner/Mini-Twitter/blob/main/Screenshots/Settings%20Menu.png?raw=true)|
+
+Admin Dashboard Login Page               |  Admin Dashboard User Management Page               
+:-------------------------:|:-------------------------:
+![](https://github.com/amitrotner/Mini-Twitter/blob/main/Screenshots/admin-dashboard-login.png?raw=true)| ![](https://github.com/amitrotner/Mini-Twitter/blob/main/Screenshots/admin-dashboard.png?raw=true)|
