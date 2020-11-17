@@ -22,7 +22,7 @@ A mini Twitter app written in Flutter using .NET core API, SQL database, and Goo
 
 ## Screenshots
 
-Login Page               |  Signup Page               | Tweets Feed               |  Post new tweets 		  |	Add Photos to tweets
+Login Page               |  Signup Page               | Tweets Feed               |  Post new tweets 		  |	Add photos to tweets
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/amitrotner/Mini-Twitter/blob/main/Screenshots/Login%20Page.png?raw=true) |![](https://github.com/amitrotner/Mini-Twitter/blob/main/Screenshots/Signup%20Page.png?raw=true)| ![](https://github.com/amitrotner/Mini-Twitter/blob/main/Screenshots/Tweets%20Feed.png?raw=true) |![](https://github.com/amitrotner/Mini-Twitter/blob/main/Screenshots/Post%20Tweet.png?raw=true)| ![](https://github.com/amitrotner/Mini-Twitter/blob/main/Screenshots/Adding%20Photos%20to%20Tweet.png?raw=true)|
 
